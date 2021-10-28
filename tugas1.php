@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] != 'GET') {
 $starttime = microtime(true);
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "koplak123";
+$dbpass = "";
 $dbname = "northwind";
 
 try {
